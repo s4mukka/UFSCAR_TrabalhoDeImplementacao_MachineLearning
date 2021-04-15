@@ -5,7 +5,7 @@ Este projeto tem consiste na execução e validação de algorítmos de aprendiz
 
 ## **Main**
 
-O arquivo *main&#46;py* serve para inicializar o programa, mostrando um menu para que se escolha qual programa ira rodar, *part_one&#46;py (Parte 1)* ou *part_two&#46;py (Parte 2)*
+O arquivo *main&#46;py* serve para inicializar o programa, mostrando um menu para que se escolha qual programa ira rodar, *part_one&#46;py (Parte 1)* ou *part_two&#46;py (Parte 2)*.
 
 ## **Parte 1** - *Avaliação de árvore de decisão com métricas para classificação*
 
@@ -74,4 +74,3 @@ Atributos:
 ## Makefile
 
  O Makefile serve apenas para rodar o programa com python3 src/main.py
- 
