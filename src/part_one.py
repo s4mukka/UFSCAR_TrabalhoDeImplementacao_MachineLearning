@@ -14,7 +14,7 @@ class PartOne:
         clf = tree.DecisionTreeClassifier(criterion='entropy')
         clf.fit(X_train, y_train)
 
-        fig = plt.figure(figsize=(100, 100))
+        fig = plt.figure(figsize=(100, 30))
         fig = tree.plot_tree(clf, fontsize=10)
 
         plt.savefig('./src/imgs/plot_decision_tree.png')
