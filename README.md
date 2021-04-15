@@ -1,6 +1,6 @@
 # **Trabalho de Implementação** - *Aprendizado de Máquina*
 
-Este projeto consiste na execução e validação de algorítmos de aprendizado supervisionado para classificação *(árvore de decisão)* e não supervisionado para agrupamento *(K-means)* estudados na disciplina **Inteligência Artificial** do curso **Bacharelado em Ciência da Computação** na universidade **Universidade Federal de São Carlos**.
+Este projeto consiste na execução e validação de algorítmos de aprendizado supervisionado para classificação *(árvore de decisão)* e não supervisionado para agrupamento *(K-means)* estudados na disciplina **Inteligência Artificial** do curso **Bacharelado em Ciência da Computação** na **Universidade Federal de São Carlos**.
 
 
 ## **Main**
