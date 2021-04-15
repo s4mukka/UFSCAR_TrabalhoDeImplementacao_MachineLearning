@@ -13,8 +13,12 @@ def main():
         Part = PartOne()
     elif (part == 2):
         Part = PartTwo()
-    else
-    return
+    else:
+        return
+
+    print("\n")
+    print("Iniciando Parte ", part, "\n")
+
     Part.run()
 
 
@@ -23,7 +27,7 @@ if __name__ == "__main__":
         main()
 
     except KeyboardInterrupt:
-        print("Program closed by User!")
+        print("Programa fechado pelo usuário!")
 
     finally:
-        print("Program finished!")
+        print("Programa finalizado!")
